@@ -51,7 +51,7 @@ O objetivo deste projeto é desenvolver uma API RESTful para um E-commerce, segu
 
 <h2>Autores</h2>  
 <div align="center">
-<img src="Imagens Readme/github.svg" height="100" width="100"> <br /><a href="https://github.com/BernardoChrist">Bernardo Christ</a> | <a href="https://github.com/leignel">Cristian Leignel</a> | <a href="https://github.com/bordeguilherme">Gulherme Borde</a> | <a href="https://github.com/Igor-Arauj0">Igor Araujo</a> | <a href="https://github.com/PalomaPts">Paloma Tavares</a> | <a href="https://github.com/sh9bba">Felipe de Moura</a> 
+<img src="Imagens Readme/github.svg" height="100" width="100"> <br /><a href="https://github.com/BernardoChrist">Bernardo Christ</a> | <a href="https://github.com/leignel">Cristian Leignel</a> | <a href="https://github.com/bordeguilherme">Guilherme Borde</a> | <a href="https://github.com/Igor-Arauj0">Igor Araujo</a> | <a href="https://github.com/PalomaPts">Paloma Tavares</a> | <a href="https://github.com/sh9bba">Felipe de Moura</a> 
   </div>
 
 
